@@ -15,3 +15,5 @@ In this repository we store codes and data generated during the project.
 matrix.csv - matrix of the game
 
 path.cpp - program for finding paths
+
+Finder.py - program for finding isomorfic vertices
